@@ -1,1 +1,6 @@
 D:\kalkulator\lekcja1\lekcja1\bin\Debug\lekcja1.exe.config
+D:\kalkulator\lekcja1\lekcja1\bin\Debug\lekcja1.exe
+D:\kalkulator\lekcja1\lekcja1\bin\Debug\lekcja1.pdb
+D:\kalkulator\lekcja1\lekcja1\obj\Debug\lekcja1.csprojResolveAssemblyReference.cache
+D:\kalkulator\lekcja1\lekcja1\obj\Debug\lekcja1.exe
+D:\kalkulator\lekcja1\lekcja1\obj\Debug\lekcja1.pdb
